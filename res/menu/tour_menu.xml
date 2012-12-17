@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Virtual Tour screen menu options -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Suggested Zoom Level action bar element -->
+    <item android:id="@+id/zoom_level"
+          android:title="Suggested Zoom Level"
+          android:icon="@drawable/ic_zoom_level"
+          android:showAsAction="ifRoom"/>
+
+    <!-- Map Style action bar element -->
+    <item android:id="@+id/map_style"
+          android:title="Map Style"
+          android:icon="@drawable/ic_globe"
+          android:showAsAction="ifRoom"/>
+
+</menu>

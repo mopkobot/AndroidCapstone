@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--  This is the XML file used for the Checklist feature. 
+It uses a Scroll View so that the list options can scroll if there are too many to fit on the screen.
+Also, it uses different styles: MyLayout, MyScrollView, and MyTextView from the themes.xml file.
+
+Coded by: Jake Pfohl 
+-->
+
+<ScrollView style="@style/MyScrollView"
+            xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout style="@style/MyLayout"
+                  xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <CheckBox style="@style/MyTextView"
+                  android:id="@+id/cb1"
+                />
+        <CheckBox style="@style/MyTextView"
+                  android:id="@+id/cb2"
+                />
+        <CheckBox style="@style/MyTextView"
+                  android:id="@+id/cb3"
+                />
+        <CheckBox style="@style/MyTextView"
+                  android:id="@+id/cb4"
+                />
+        <CheckBox style="@style/MyTextView"
+                  android:id="@+id/cb5"
+                />
+        <CheckBox style="@style/MyTextView"
+                  android:id="@+id/cb6"
+                />
+        <CheckBox style="@style/MyTextView"
+                  android:id="@+id/cb7"
+                />
+        <CheckBox style="@style/MyTextView"
+                  android:id="@+id/cb8"
+                />
+    </LinearLayout>
+
+</ScrollView>

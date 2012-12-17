@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- This layout is used with the LorasMajorsDetails Activity to display detailed information 
+		about a Loras College major. -->
+
+<!-- Use a ScrollView so the screen can vertically scroll -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/majorsScrollView"
+            style="@style/MyScrollView">
+
+    <RelativeLayout
+            style="@style/MyLayout">
+
+        <!-- Title of the major -->
+        <TextView
+                android:id="@+id/majorTitle"
+                android:text="Default Text"
+                style="@style/MyMainHeader"/>
+
+        <!-- Label for the description of the major -->
+        <TextView
+                android:id="@+id/majorDescriptionLabel"
+                android:layout_below="@+id/majorTitle"
+                android:layout_marginTop="20dp"
+                android:text="Description:"
+                style="@style/MySubHeader"/>
+
+        <!-- The description of the major -->
+        <TextView
+                android:id="@+id/majorDescription"
+                android:layout_below="@+id/majorDescriptionLabel"
+                android:layout_marginTop="10dp"
+                android:text="Default Text"
+                style="@style/MyTextView"/>
+
+        <!-- Label for the major's sample four year plan(s) -->
+        <TextView
+                android:id="@+id/majorPlansTitle"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/majorDescription"
+                android:layout_marginTop="30dp"
+                android:text="Sample Four Year Advising Plans:"
+                style="@style/MySubHeader"/>
+
+        <!-- List of the major's sample four year plan(s) -->
+        <TextView
+                android:id="@+id/majorPlans"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/majorPlansTitle"
+                android:layout_marginTop="10dp"
+                android:text="Default Text"
+                style="@style/MyTextView"/>
+
+        <!-- To make a gap between the end of the four year plan link(s) and the bottom
+                  of the screen to facilitate easier clicking with the link(s) being so close to
+                  the bottom edge of the screen -->
+        <TextView
+                android:id="@+id/gap"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_alignParentBottom="true"
+                android:layout_below="@+id/majorPlans"/>
+
+    </RelativeLayout>
+
+</ScrollView>

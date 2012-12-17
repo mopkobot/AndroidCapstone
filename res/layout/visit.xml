@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Defining Scroll View -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            style="@style/MyScrollView">
+    <!-- Defining Linear Layout -->
+    <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            style="@style/MyLayout">
+        <!-- Defining Text Label For Main Title -->
+        <TextView
+                android:id="@+id/textView1"
+                style="@style/MyMainHeader"
+                android:text="Schedule a Visit"/>
+        <!-- Defining Text Label For Sub Title -->
+        <TextView
+                android:id="@+id/textView2"
+                style="@style/MySubHeader"
+                android:text="Personal Information"/>
+        <!-- Defining Text Label For Name -->
+        <TextView
+                android:id="@+id/nameText"
+                style="@style/MyTextView"
+                android:text="First Name:"/>
+        <!-- Defining Input box For Name -->
+        <EditText
+                android:id="@+id/txtName"
+                style="@style/MyEditText"
+                android:inputType="textPersonName"/>
+
+        <requestFocus/>
+        <!-- Defining Text Label For Last Name -->
+        <TextView
+                android:id="@+id/lastText"
+                style="@style/MyTextView"
+                android:text="Last Name:"/>
+        <!-- Defining Input box For Last Name -->
+        <EditText
+                android:id="@+id/txtLast"
+                style="@style/MyEditText"/>
+        <!-- Defining Text Label For Address -->
+        <TextView
+                android:id="@+id/addressText"
+                style="@style/MyTextView"
+                android:text="Address:"/>
+        <!-- Defining Input box For Address -->
+        <EditText
+                android:id="@+id/txtAddress"
+                style="@style/MyEditText"
+                android:inputType="textPostalAddress"/>
+        <!-- Defining Text Label For City -->
+        <TextView
+                android:id="@+id/cityText"
+                style="@style/MyTextView"
+                android:text="City:"/>
+        <!-- Defining Input box For City -->
+        <EditText
+                android:id="@+id/txtCity"
+                style="@style/MyEditText"/>
+        <!-- Defining Text Label For State -->
+        <TextView
+                android:id="@+id/stateText"
+                style="@style/MyTextView"
+                android:text="State:"/>
+        <!-- Defining Dropdown box For State -->
+        <Spinner
+                android:id="@+id/spnPerState"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        <!-- Defining Text Label For Zip Code -->
+        <TextView
+                android:id="@+id/zipText"
+                style="@style/MyTextView"
+                android:text="Zipcode:"/>
+        <!-- Defining Input box For Zip Coce -->
+        <EditText
+                android:id="@+id/txtZip"
+                style="@style/MyEditText"
+                android:inputType="number"/>
+        <!-- Defining Text Label For Gender -->
+        <TextView
+                android:id="@+id/genderText"
+                style="@style/MyTextView"
+                android:text="Gender:"/>
+        <!-- Defining Dropdown box For Gender -->
+        <Spinner
+                android:id="@+id/spnGender"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        <!-- Defining Text Label For Student Type -->
+        <TextView
+                android:id="@+id/typeText"
+                style="@style/MyTextView"
+                android:text="Student Type:"/>
+        <!-- Defining Dropdown box For Student Type -->
+        <Spinner
+                android:id="@+id/spnType"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        <!-- Defining Text Label For Email -->
+        <TextView
+                android:id="@+id/textEmail"
+                style="@style/MyTextView"
+                android:text="Email:"/>
+        <!-- Defining Input box For Email -->
+        <EditText
+                android:id="@+id/txtEmail"
+                style="@style/MyEditText"
+                android:inputType="textEmailAddress"/>
+        <!-- Defining Text Label For Phone Number -->
+        <TextView
+                android:id="@+id/phoneText"
+                style="@style/MyTextView"
+                android:text="Phone number:"/>
+        <!-- Defining Input box For Phone Number -->
+        <EditText
+                android:id="@+id/txtPhone"
+                style="@style/MyEditText"
+                android:inputType="phone"/>
+        <!-- Defining Text Label For Sub Title -->
+        <TextView
+                android:id="@+id/textView12"
+                style="@style/MySubHeader"
+                android:text="Academic Information"/>
+        <!-- Defining Text Label For High School Name -->
+        <TextView
+                android:id="@+id/HSText"
+                style="@style/MyTextView"
+                android:text="High School Name:"/>
+        <!-- Defining Input box For High School Name -->
+        <EditText
+                android:id="@+id/txtHighSchoolName"
+                style="@style/MyEditText"
+                android:inputType="text"/>
+        <!-- Defining Text Label For High School City -->
+        <TextView
+                android:id="@+id/HSCityText"
+                style="@style/MyTextView"
+                android:text="High School City:"/>
+        <!-- Defining Input box For High School City -->
+        <EditText
+                android:id="@+id/txtHSCity"
+                style="@style/MyEditText"
+                android:inputType="text"/>
+        <!-- Defining Text Label For High School State -->
+        <TextView
+                android:id="@+id/HSStateText"
+                style="@style/MyTextView"
+                android:text="High School State:"/>
+        <!-- Defining Dropdown box For State -->
+        <Spinner
+                android:id="@+id/spnState"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        <!-- Defining Text Label For Graduation Year -->
+        <TextView
+                android:id="@+id/GradYearText"
+                style="@style/MyTextView"
+                android:text="Graduation Year:"/>
+        <!-- Defining Dropdown box For Graduation Year -->
+        <Spinner
+                android:id="@+id/spnGradYear"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        <!-- Defining Text Label For GPA -->
+        <TextView
+                android:id="@+id/gpaText"
+                style="@style/MyTextView"
+                android:text="High School Cumulative GPA:"/>
+        <!-- Defining Input box For GPA -->
+        <EditText
+                android:id="@+id/txtGPA"
+                style="@style/MyEditText"/>
+        <!-- Defining Text Label For ACT score-->
+        <TextView
+                android:id="@+id/textView18"
+                style="@style/MyTextView"
+                android:text="ACT Score:"/>
+        <!-- Defining Input box For ACT Score -->
+        <EditText
+                android:id="@+id/txtAct"
+                style="@style/MyEditText"
+                android:inputType="number"/>
+        <!-- Defining Text Label For SAT score -->
+        <TextView
+                android:id="@+id/textView19"
+                style="@style/MyTextView"
+                android:text="SAT Score:"/>
+        <!-- Defining Input box For SAT score -->
+        <EditText
+                android:id="@+id/txtSat"
+                style="@style/MyEditText"
+                android:inputType="number"/>
+        <!-- Defining Text Label For Major -->
+        <TextView
+                android:id="@+id/majorText"
+                style="@style/MyTextView"
+                android:text="Intended Major:"/>
+        <!-- Defining Input box For Major -->
+        <EditText
+                android:id="@+id/txtMajor"
+                style="@style/MyEditText"/>
+        <!-- Defining Text Label For Extracurricular Activities -->
+        <TextView
+                android:id="@+id/extraText"
+                style="@style/MyTextView"
+                android:text="Extracurricular Interests in College:"/>
+        <!-- Defining Input box For Extracurricular Activities -->
+        <EditText
+                android:id="@+id/txtExtra"
+                style="@style/MyEditText"
+                android:layout_height="100dp"
+                android:inputType="textMultiLine"/>
+        <!-- Defining Text Label For Athletic Interest -->
+        <TextView
+                android:id="@+id/athleticText"
+                style="@style/MyTextView"
+                android:text="Intercollegiate Athletic Interests:"/>
+        <!-- Defining Input box For Athletic Activities -->
+        <EditText
+                android:id="@+id/txtAthletic"
+                style="@style/MyEditText"
+                android:layout_height="100dp"
+                android:inputType="textMultiLine"/>
+        <!-- Defining Text Label For Colleges Attended -->
+        <TextView
+                android:id="@+id/textView22"
+                style="@style/MyTextView"
+                android:text="Colleges Attended (if applicable):"/>
+        <!-- Defining Input box For Colleges Attended -->
+        <EditText
+                android:id="@+id/txtColleges"
+                style="@style/MyEditText"
+                android:layout_height="100dp"
+                android:inputType="textMultiLine"/>
+        <!-- Defining Text Label For College GPA -->
+        <TextView
+                android:id="@+id/CollegeGpaTXT"
+                style="@style/MyTextView"
+                android:text="College GPA (if applicable):"/>
+        <!-- Defining Input box For College GPA -->
+        <EditText
+                android:id="@+id/txtCollegeGPA"
+                style="@style/MyEditText"/>
+        <!-- Defining Text Label For Sub Title -->
+        <TextView
+                android:id="@+id/textView23"
+                style="@style/MySubHeader"
+                android:text="Visit Details"/>
+        <!-- Defining Text Label For Desired Visit Date -->
+        <TextView
+                android:id="@+id/visitText"
+                style="@style/MyTextView"
+                android:text="Desired Visit Date:"/>
+        <!-- Defining Dropdown box For Visit Date -->
+        <Spinner
+                android:id="@+id/spnDate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        <!-- Defining Text Label For Visit Time -->
+        <TextView
+                android:id="@+id/timeText"
+                style="@style/MyTextView"
+                android:text="Desired Visit Time:"/>
+        <!-- Defining Dropdown box For Visit Time -->
+        <Spinner
+                android:id="@+id/spnTime"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        <!-- Defining Text Label For Departure Time -->
+        <TextView
+                android:id="@+id/depText"
+                style="@style/MyTextView"
+                android:text="Departure Time:"/>
+        <!-- Defining Input box For Departure Time -->
+        <EditText
+                android:id="@+id/txtDepTime"
+                style="@style/MyEditText"
+                android:inputType="time"/>
+        <!-- Defining Text Label For Number of Visitors -->
+        <TextView
+                android:id="@+id/visitorsText"
+                style="@style/MyTextView"
+                android:text="Number of visitors:"/>
+        <!-- Defining Dropdown box For Number of Visitors -->
+        <Spinner
+                android:id="@+id/spnVisitors"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        <!-- Defining Text Label For Meetings that you would like to have -->
+        <TextView
+                android:id="@+id/textView28"
+                style="@style/MyTextView"
+                android:text="List any academic department/faculty that you would like to meet with:"/>
+        <!-- Defining Input box For Faculty that the user wants to meet-->
+        <EditText
+                android:id="@+id/txtDpFac"
+                style="@style/MyEditText"
+                android:layout_height="100dp"
+                android:inputType="textMultiLine"/>
+        <!-- Defining Text Label For Meetings that you would like to have -->
+        <TextView
+                android:id="@+id/textView29"
+                style="@style/MyTextView"
+                android:text="List any athletic department/coaches you would like to meet with:"/>
+        <!-- Defining Input box For Coaches that the user wants to meet-->
+        <EditText
+                android:id="@+id/txtAthCoaches"
+                style="@style/MyEditText"
+                android:layout_height="100dp"
+                android:inputType="textMultiLine"/>
+        <!-- Defining Text Label For Events you would like to include in your visit -->
+        <TextView
+                android:id="@+id/textView30"
+                style="@style/MyTextView"
+                android:text="What would you like to include in your visit?"/>
+        <!-- Defining Linear Layout-->
+        <LinearLayout
+                android:id="@+id/linearLayout3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+            <!-- Defining CheckBox for Faculty-->
+            <CheckBox
+                    android:id="@+id/chkFaculty"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.4"
+                    android:text="Meet with Faculty"/>
+            <!-- Defining CheckBox for Lunch-->
+            <CheckBox
+                    android:id="@+id/chkLunch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.6"
+                    android:text="Enjoy a Complimentary Launch(If visiting between 11:10am and 1:30pm)"/>
+        </LinearLayout>
+        <!-- Defining Linear Layout-->
+        <LinearLayout
+                android:id="@+id/linearLayout4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+            <!-- Defining CheckBox for Traditional Visit-->
+            <CheckBox
+                    android:id="@+id/chkTrdVisit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight=".5"
+                    android:text="Traditional Campus Visit"/>
+            <!-- Defining CheckBox for Meeting with a Coach -->
+            <CheckBox
+                    android:id="@+id/chkMeetWithCoach"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight=".5"
+                    android:text="Meet with a Coach"/>
+        </LinearLayout>
+        <!-- Defining Text Label For Sub Title -->
+        <TextView
+                android:id="@+id/textView31"
+                style="@style/MySubHeader"
+                android:text="Alumni Details"/>
+        <!-- Defining Text Label For Alumni -->
+        <TextView
+                android:id="@+id/alumText"
+                style="@style/MyTextView"
+                android:text="Is anyone in your family an alumnus/alumna of Loras?"/>
+        <!-- Defining Radio Group For Alumni-->
+        <RadioGroup
+                android:id="@+id/rdGrAlumni"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <!-- Defining RadioButton for Yes -->
+            <RadioButton
+                    android:id="@+id/radAlmYes"
+                    android:layout_weight=".5"
+                    android:checked="false"
+                    android:text="Yes"/>
+            <!-- Defining RadioButton for No -->
+            <RadioButton
+                    android:id="@+id/radAlmNo"
+                    android:layout_weight=".5"
+                    android:checked="false"
+                    android:text="No"/>
+        </RadioGroup>
+        <!-- Defining Text Label If the Alumni is going to be present during your visit -->
+        <TextView
+                android:id="@+id/textView33"
+                style="@style/MyTextView"
+                android:text="If so, will they be present for the visit?"
+                android:visibility="invisible"/>
+        <!-- Defining Radio Group For Alumni Present-->
+        <RadioGroup
+                android:id="@+id/rdGrPresent"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="invisible">
+            <!-- Defining RadioButton for Yes -->
+            <RadioButton
+                    android:id="@+id/radPresentYes"
+                    android:layout_weight=".5"
+                    android:checked="false"
+                    android:text="Yes"/>
+            <!-- Defining RadioButton for No -->
+            <RadioButton
+                    android:id="@+id/radPresentNo"
+                    android:layout_weight=".5"
+                    android:checked="false"
+                    android:text="No"/>
+        </RadioGroup>
+        <!-- Defining Text Label For Alumni Name -->
+        <TextView
+                android:id="@+id/textView34"
+                style="@style/MyTextView"
+                android:text="Name (Include maiden):"
+                android:visibility="invisible"/>
+        <!-- Defining Input Box For Alumni Name -->
+        <EditText
+                android:id="@+id/txtNameAlum"
+                style="@style/MyEditText"
+                android:visibility="invisible"/>
+        <!-- Defining Text Label For The Relationship between the Alumni and the User -->
+        <TextView
+                android:id="@+id/relationshipText"
+                style="@style/MyTextView"
+                android:text="Relationship to Student:"
+                android:visibility="invisible"/>
+        <!-- Defining Dropdown box For Relationship between the Alumni and the User -->
+        <Spinner
+                android:id="@+id/spnStudentRelationship"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="invisible"/>
+        <!-- Defining Text Label For the Graduation Year of the Alumni-->
+        <TextView
+                android:id="@+id/alumGradYearText"
+                style="@style/MyTextView"
+                android:text="Year graduated or attended Loras:"
+                android:visibility="invisible"/>
+        <!-- Defining Dropdown box For the Graduation Year of the Alumni-->
+        <Spinner
+                android:id="@+id/spnAttendedLoras"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="invisible"/>
+        <!-- Defining Linear Layout-->
+        <LinearLayout
+                android:id="@+id/linearLayout1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+            <!-- Defining Submit Button -->
+            <Button
+                    android:id="@+id/btnSub"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:text="Submit Form"/>
+            <!-- Defining Clear Button -->
+            <Button
+                    android:id="@+id/btnClear"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:text="Clear Form"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

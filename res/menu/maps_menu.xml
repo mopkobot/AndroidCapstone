@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Map Explorer screen menu options -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Campus Locations action bar element -->
+    <item android:id="@+id/campus_locations"
+          android:title="Campus Locations"
+          android:icon="@drawable/ic_compass"
+          android:showAsAction="ifRoom"/>
+
+    <!-- Activity Layers action bar element -->
+    <item android:id="@+id/activity_layers"
+          android:title="Activity Layers"
+          android:icon="@drawable/ic_activity_layers"
+          android:showAsAction="ifRoom"/>
+
+    <!-- Suggested Zoom Level action bar element -->
+    <item android:id="@+id/zoom_level_exp"
+          android:title="Suggested Zoom Level"
+          android:icon="@drawable/ic_zoom_level"
+          android:showAsAction="ifRoom"/>
+
+    <!-- May Style action bar element -->
+    <item android:id="@+id/map_style_exp"
+          android:title="Map Style"
+          android:icon="@drawable/ic_globe"
+          android:showAsAction="ifRoom"/>
+
+</menu>

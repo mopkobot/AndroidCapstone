@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Defining Linear Layout -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              style="@style/MyLayout">
+    <!-- Defining text view where the explanation for the images is shown-->
+    <TextView
+            android:id="@+id/textView1"
+            style="@style/MyMainHeader"
+            android:gravity="center"/>
+    <!-- Defining image view where the pictures from the slide show are shown -->
+    <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:contentDescription=""
+            android:padding="15dp"
+            android:src="@drawable/acc"/>
+
+</LinearLayout>

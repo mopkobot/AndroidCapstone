@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--  Provides a lyout for the specific department listing for the campus directory -->
+
+<!--  Styling depends on themes.xml -->
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            style="@style/MyScrollView">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  style="@style/MyLayout"
+                  android:id="@+id/directory"
+            >
+
+        <!-- TextView for the header containing the name of the department -->
+        <TextView
+                android:id="@+id/departmentTitle"
+                style="@style/MyMainHeader"
+                android:text=""/>
+
+        <!-- The list faculty list for each department is generated programmatically and then added
+ programmatically to this layout in a new TextView-->
+
+    </LinearLayout>
+</ScrollView>

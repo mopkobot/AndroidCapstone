@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Loras College crest/logo used for Home Screen background. It is defined this way so that 
+	the image does not stretch when set to be the background. -->
+
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+        android:src="@drawable/newwatermark"
+        android:tileMode="disabled" android:gravity="center"/>

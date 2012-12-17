@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Home Screen menu options -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- About screen action bar element -->
+    <item android:id="@+id/about_page"
+          android:title="About"
+          android:icon="@drawable/ic_info"
+          android:showAsAction="ifRoom"/>
+</menu>

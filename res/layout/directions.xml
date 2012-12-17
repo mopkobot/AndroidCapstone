@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--  This is the XML file used for the directions feature. 
+It uses a Scroll View so that the list options can scroll if there are too many to fit on the screen.
+Also, it uses different styles: MyScrollView, MyLayout, MyMainHeader, MySubHeader, and MyTextView from the themes.xml file.
+
+Coded by: Jake Pfohl 
+-->
+
+<ScrollView style="@style/MyScrollView"
+            xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout style="@style/MyLayout"
+                  xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <TextView style="@style/MyMainHeader"
+                  android:id="@+id/tvDisplay0"
+                />
+
+        <TextView style="@style/MySubHeader"
+                  android:id="@+id/tvDisplay1"
+                />
+
+        <TextView style="@style/MyTextView"
+                  android:id="@+id/tvDisplay2"
+                />
+
+        <TextView style="@style/MySubHeader"
+                  android:id="@+id/tvDisplay3"
+                />
+
+        <TextView style="@style/MyTextView"
+                  android:id="@+id/tvDisplay4"
+                />
+
+        <TextView style="@style/MySubHeader"
+                  android:id="@+id/tvDisplay5"
+                />
+
+        <TextView style="@style/MyTextView"
+                  android:id="@+id/tvDisplay6"
+                />
+
+        <TextView style="@style/MySubHeader"
+                  android:id="@+id/tvDisplay7"
+                />
+
+        <TextView style="@style/MyTextView"
+                  android:id="@+id/tvDisplay8"
+                />
+
+    </LinearLayout>
+
+</ScrollView>
+
+

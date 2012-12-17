@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--  Provides the form layout for the information request feature-->
+
+<!--  Styling depends on themes.xml -->
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            style="@style/MyScrollView"
+        >
+
+
+    <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            style="@style/MyLayout"
+            >
+
+
+        <TextView
+                android:id="@+id/titleText"
+                android:textStyle="bold"
+                style="@style/MyTextView"
+                android:text="Please Indicate:  "/>
+
+        <RadioGroup
+                android:id="@+id/titleGroup"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+            <RadioButton android:id="@+id/mr"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:text="Mr."/>
+            <RadioButton android:id="@+id/ms"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:text="Ms."/>
+        </RadioGroup>
+
+        <TextView
+                android:id="@+id/nameText"
+                style="@style/MyTextView"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="Full Name (First Middle Last)"/>
+
+        <EditText
+                android:id="@+id/nameField"
+                style="@style/MyEditText">
+        </EditText>
+
+        <TextView
+                android:id="@+id/preferredNameText"
+                style="@style/MyTextView"
+                android:text="Preferred Name"/>
+
+        <EditText
+                android:id="@+id/preferredNameField"
+                style="@style/MyEditText">
+        </EditText>
+
+        <TextView
+                android:id="@+id/addressText"
+                style="@style/MyTextView"
+                android:textStyle="bold"
+                android:text="Street Address"/>
+
+        <EditText
+                android:id="@+id/addressField"
+                style="@style/MyEditText">
+        </EditText>
+
+
+        <TextView
+                android:id="@+id/cityText"
+                style="@style/MyTextView"
+                android:textStyle="bold"
+                android:text="City"/>
+
+        <EditText
+                android:id="@+id/cityField"
+                style="@style/MyEditText">
+        </EditText>
+
+        <TextView
+                android:id="@+id/stateText"
+                style="@style/MyTextView"
+                android:textStyle="bold"
+                android:text="State"/>
+
+        <Spinner
+                android:id="@+id/stateSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        <TextView
+                android:id="@+id/zipCodeText"
+                style="@style/MyTextView"
+                android:textStyle="bold"
+                android:text="Zip Code"/>
+
+        <EditText
+                android:id="@+id/zipCodeField"
+                style="@style/MyEditText">
+        </EditText>
+
+        <TextView
+                android:id="@+id/birthText"
+                style="@style/MyTextView"
+                android:textStyle="bold"
+                android:text="Date of Birth"/>
+
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:padding="5dp"
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                >
+
+            <Spinner
+                    android:id="@+id/monthSpinner"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+
+                    />
+
+            <EditText
+                    android:id="@+id/dayField"
+                    style="@style/MyEditText"
+                    android:layout_marginLeft="10dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentTop="true"
+                    android:layout_width="wrap_content"
+                    android:layout_toRightOf="@+id/monthSpinner"
+                    android:hint="Day">
+            </EditText>
+
+            <EditText
+                    android:id="@+id/yearField"
+                    style="@style/MyEditText"
+                    android:layout_marginLeft="10dp"
+                    android:layout_height="match_parent"
+                    android:layout_width="wrap_content"
+                    android:layout_toRightOf="@+id/dayField"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignBaseline="@+id/dayField"
+                    android:hint="Year">
+            </EditText>
+
+        </RelativeLayout>
+
+
+        <TextView
+                android:id="@+id/landlinePhoneText"
+                style="@style/MyTextView"
+                android:text="Landline Phone Number"/>
+
+        <EditText
+                android:id="@+id/landlinePhoneField"
+                style="@style/MyEditText">
+        </EditText>
+
+        <TextView
+                android:id="@+id/cellPhoneText"
+                style="@style/MyTextView"
+                android:text="Cell Phone Number"/>
+
+        <EditText
+                android:id="@+id/cellPhoneField"
+                style="@style/MyEditText">
+        </EditText>
+
+        <TextView
+                android:id="@+id/emailText"
+                style="@style/MyTextView"
+                android:text="Email Address"/>
+
+        <EditText
+                android:id="@+id/emailField"
+                style="@style/MyEditText">
+        </EditText>
+
+        <TextView
+                android:id="@+id/intendedStartTermText"
+                style="@style/MyTextView"
+                android:textStyle="bold"
+                android:text="Intended Start Term"/>
+
+        <!--  Though the values for the inteneded start term have been coded, the actual values are
+dynamically updated based on current month and year within the program itself.  Therefore,
+manually updating the intended start term options is not needed -->
+
+        <RadioGroup
+                android:id="@+id/intendedStartTermGroup"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <RadioButton android:id="@+id/firstTerm"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:text="Spring (January) 2012"/>
+            <RadioButton android:id="@+id/secondTerm"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:text="Fall (August) 2012"/>
+            <RadioButton android:id="@+id/thirdTerm"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:text="Spring (January) 2013"/>
+            <RadioButton android:id="@+id/fourthTerm"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:text="Fall (August) 2013"/>
+            <RadioButton android:id="@+id/fifthTerm"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:text="Spring (January) 2014"/>
+            <RadioButton android:id="@+id/sixthTerm"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:text="Fall (August) 2014"/>
+            <RadioButton android:id="@+id/seventhTerm"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:text="Other/Unsure"/>
+        </RadioGroup>
+
+        <TextView
+                android:id="@+id/highSchoolText"
+                style="@style/MyTextView"
+                android:textStyle="bold"
+                android:text="High School"/>
+
+        <EditText
+                android:id="@+id/highSchoolField"
+                style="@style/MyEditText">
+        </EditText>
+
+        <TextView
+                android:id="@+id/highSchoolCityStateText"
+                style="@style/MyTextView"
+                android:text="High School City and State"/>
+
+        <EditText
+                android:id="@+id/highSchoolCityStateField"
+                style="@style/MyEditText">
+        </EditText>
+
+        <TextView
+                android:id="@+id/highSchoolGraduationText"
+                style="@style/MyTextView"
+                android:textStyle="bold"
+                android:text="High School Graduation Year"/>
+
+        <EditText
+                android:id="@+id/highSchoolGraduationField"
+                style="@style/MyEditText">
+        </EditText>
+
+        <TextView
+                android:id="@+id/highSchoolGPAText"
+                style="@style/MyTextView"
+                android:text="High School Grade Point Average"/>
+
+        <EditText
+                android:id="@+id/highSchoolGPAField"
+                style="@style/MyEditText">
+        </EditText>
+
+        <TextView
+                android:id="@+id/transferStudentCollegesText"
+                style="@style/MyTextView"
+                android:text="Transfer Student, please list colleges attended"/>
+
+        <EditText
+                android:id="@+id/transferStudentCollegesField"
+                style="@style/MyEditText"
+                android:lines="5">
+        </EditText>
+
+        <TextView
+                android:id="@+id/academicInterestsText"
+                style="@style/MyTextView"
+                android:text="Academic Interest"/>
+
+        <EditText
+                android:id="@+id/academicInterestsField"
+                style="@style/MyEditText"
+                android:lines="5">
+        </EditText>
+
+        <TextView
+                android:id="@+id/collegeGPAText"
+                style="@style/MyTextView"
+                android:text="College/University Grade Point Average"/>
+
+        <EditText
+                android:id="@+id/collegeGPAField"
+                style="@style/MyEditText">
+        </EditText>
+
+        <TextView
+                android:id="@+id/collegiateAthleticsText"
+                style="@style/MyTextView"
+                android:text="Collegiate Athletics"/>
+
+        <EditText
+                android:id="@+id/collegiateAthleticsField"
+                style="@style/MyEditText"
+                android:lines="5">
+        </EditText>
+
+        <TextView
+                android:id="@+id/collegiateExtracurricularsText"
+                style="@style/MyTextView"
+                android:text="Collegiate Extracurricular Activities"/>
+
+        <EditText
+                android:id="@+id/collegiateExtracurricularsField"
+                style="@style/MyEditText"
+                android:lines="5">
+        </EditText>
+
+        <TextView
+                android:id="@+id/usCitizenText"
+                style="@style/MyTextView"
+                android:text="Are you a United States citizen?"/>
+
+        <RadioGroup
+                android:id="@+id/usCitizenGroup"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+            <RadioButton android:id="@+id/yes"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:text="Yes"/>
+            <RadioButton android:id="@+id/no"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:text="No"/>
+        </RadioGroup>
+
+        <TextView
+                android:id="@+id/citizenshipText"
+                style="@style/MyTextView"
+                android:text="If not, please indicate Country of Citizenship"/>
+
+        <EditText
+                android:id="@+id/citizenshipField"
+                style="@style/MyEditText"
+                android:lines="5">
+        </EditText>
+
+        <TextView
+                style="@style/MyTextView"
+                android:text="\n"/>
+
+        <Button
+                android:id="@+id/ButtonSendFeedback"
+                android:layout_height="wrap_content"
+                android:text="Send Request"
+                android:onClick="sendRequest"
+                android:layout_width="fill_parent">
+        </Button>
+
+
+    </LinearLayout>
+</ScrollView>

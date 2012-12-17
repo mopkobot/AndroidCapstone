@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Name used for the app's name -->
+    <string name="app_name">Loras College</string>
+
+    <!-- Names used for various feature screens. Used in the action bar -->
+    <string name="about_page_app_name">About</string>
+    <string name="tour_app_name">Virtual Tour</string>
+    <string name="majors_app_name">Majors</string>
+    <string name="map_explorer_app_name">Map Explorer</string>
+    <string name="location_details_app_name">Location Details</string>
+    <string name="campus_directory_app_name">Campus Directory</string>
+    <string name="request_info_app_name">Request Information</string>
+    <string name="academic_calendar_app_name">Academic Calendar</string>
+    <string name="photo_gallery_app_name">Photo Gallery</string>
+    <string name="schedule_visit_app_name">Schedule a Visit</string>
+    <string name="organizations_app_name">Student Organizations</string>
+    <string name="directions_app_name">Directions</string>
+    <string name="checklist_app_name">Student Checklist</string>
+
+</resources>

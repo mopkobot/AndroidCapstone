@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- The theme that gets applied to the whole app. Inherits from an Actionbar Sherlock 
+         theme that applies a very light color (off-white/light gray) and allows for overflow
+         in the action bar for icons. -->
+    <style name="Theme.Styled" parent="Theme.Sherlock.Light.DarkActionBar">
+        <item name="actionBarStyle">@style/Widget.Styled.ActionBar</item>
+    </style>
+
+    <!-- Action bar styled to use Loras purple color -->
+    <style name="Widget.Styled.ActionBar"
+           parent="Widget.Sherlock.Light.ActionBar.Solid.Inverse">
+        <item name="background">#48235d</item>
+        <item name="android:background">#48235d</item>
+        <item name="backgroundSplit">#48235d</item>
+    </style>
+
+    <!-- Style for ScrollViews -->
+    <style name="MyScrollView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <!-- Style for Linear/Relative Layouts -->
+    <style name="MyLayout">
+        <item name="android:padding">15dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!-- Style for main headers -->
+    <style name="MyMainHeader">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!-- Style for subheaders -->
+    <style name="MySubHeader">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!-- Style for TextViews -->
+    <style name="MyTextView">
+        <item name="android:textSize">17sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!-- Style for EditTexts -->
+    <style name="MyEditText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/edittext_background</item>
+        <item name="android:padding">7dp</item>
+    </style>
+
+    <!-- Style for ListViews -->
+    <style name="MyListView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!-- Style for ListView elements -->
+    <style name="MyListViewElements">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textSize">23sp</item>
+    </style>
+
+    <!-- Style for ImageViews -->
+    <style name="MyImageView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:adjustViewBounds">true</item>
+    </style>
+
+    <!-- Style for ImageViews used in Photo Gallery -->
+    <style name="MyGalleryImageView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">200dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <!-- HomeButton style based on: http://www.samcoles.co.uk/mobile/android-implementing-a-dashboard-activity/ -->
+
+    <style name="HomeButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:drawablePadding">2dp</item>
+        <item name="android:paddingTop">20dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:background">@null</item>
+    </style>
+
+</resources>

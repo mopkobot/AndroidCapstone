@@ -1,0 +1,210 @@
+﻿Acevedo-Foley,Linda,8/25/2008,Adjunct Faculty of Education,la023100@loras.edu,Education
+Adams,Robert,8/1/2000,Ast.Prof/Instructional Design,robert.adams@loras.edu,Instructional Design
+Alexander,Sarah,1/28/2008,Adjunct Faculty for Music,sa437199@loras.edu,Music
+Allen,Paul,9/1/1964,Prof Emeritus of Relg. Studies,pa000003@loras.edu,Religious Studies
+Anderson,Ronald,1/28/2008,Adjunct Faculty of Education,ra435853@loras.edu,Education
+Anderson,Richard,8/29/1995,Prof of Sociology,ra151001@loras.edu,Sociology
+Anderson-Bricker,Kristin,8/26/1997,Assoc Prof of History,ka222419@loras.edu,History
+Atkins,Dorothy,8/30/1978,Professor Emerita of English,da000012@loras.edu,English
+Auge,Andrew,1/12/1987,Prof of English,aa012463@loras.edu,English
+Bamrick,John,,Professor Emeritus of Biology,jb000017@loras.edu,Biology
+Barrette,Andrew,8/30/2010,Adjunct Faculty of Philosophy,ab302393@loras.edu,Philosophy
+Bauerly,Donna,9/1/1971,Professor Emerita of English,db000020@loras.edu,English
+Bechen,Michelle,1/25/2000,Assoc Prof of Social Work,mb092778@loras.edu,Social Work
+Beck,Robert,6/1/1981,Prof Emer of Religious Studies,rb000022@loras.edu,Religious Studies
+Bell,Valerie,8/23/2010,Instructor of Criminal Justice,vb479056@loras.edu,Criminal Justice
+Binz,Carl,8/25/1975,Prof of Chemistry,cb000030@loras.edu,Chemistry
+Blocklinger,Karen,1/28/2008,Adjunct Faculty of Education,kb009827@loras.edu,Education
+Boffeli,Bradley,8/31/2009,Adjunct Faculty of Communication Arts,bb299325@loras.edu,Communication Arts
+Brenner,Paul,8/31/2009,Adjunct Faculty for Music,pb398704@loras.edu,Music
+Budzisz,Christopher,8/21/2000,Assoc Prof of Politics,cb284222@loras.edu,Politics
+Burnett,Derek,8/29/1984,Prof Emeritus of Acct/Business,db000042@loras.edu,Accounting/Business
+Carroll,Roy,8/29/1979,Prof of Music,rc000046@loras.edu,Music
+Cavanagh,Bradley,8/23/2010,Asst Professor of Social Work,bc459658@loras.edu,Social Work
+Chandler,Laura,8/31/2009,Adjunct Faculty for Music,lc462926@loras.edu,Music
+Cheng,Xiaoke,8/29/2011,Adjunct Faculty for Music,xc494493@loras.edu,Music
+Ciapalo,Roman,8/30/1982,Prof of Philosophy,rc000049@loras.edu,Philosophy
+Clark,Richard,,Prof Emeritus of Pol. Science,rc000050@loras.edu,Politics
+Cleary,Cathleen,1/28/2008,Adjunct Faculty of Biology,cc250269@loras.edu,Biology
+Cochran,David,8/19/1996,Prof of Political Science,dc168640@loras.edu,Politics
+Collins,Ronald,8/21/2000,Assoc Professor of Business Administration,rc284062@loras.edu,Accounting/Business
+Connolly,Connie,9/1/1998,Adjunct-Math/Cmptr Science,cc004078@loras.edu,Math/Computer Science
+Cooper,Kate,8/18/2008,Asst Professor of Biology,kc438896@loras.edu,Biology
+Corken,Christine,1/20/1999,Adjunct for Criminal Justice,cc117972@loras.edu,Criminal Justice
+Cox,Bonnie,8/30/2010,Adjunct for Psychology,bc008635@loras.edu,Psychology
+Cunningham,Sarah,8/29/2011,Adjunct Faculty of Social Work,sc372345@loras.edu,Social Work
+Dalsing,Deirdre,1/17/2002,Adjunct for Psychology,dd012308@loras.edu,Psychology
+Dansart,Bernard,8/26/1974,Prof Emeritus of Education,bd000068@loras.edu,Education
+Davis,Thomas,8/23/1989,Prof of Biology,td058762@loras.edu,Biology
+Decker,Leonard,8/28/1985,Prof of Criminal Justice,ld000070@loras.edu,Criminal Justice
+Donald,Douglas,6/25/1984,Assoc Prof of Communication Arts,dd000086@loras.edu,Communication Arts
+Dudley,Rita,8/20/2001,Adjunct Faculty of Education,rd295737@loras.edu,Education
+Dunn,Robert,8/29/1984,Prof of Psychology,rd000090@loras.edu,Psychology
+Eby,John,8/17/1998,Assoc Prof of History,je249799@loras.edu,History
+Fabricius,Rebecca,8/21/2006,Dir of Clinical Education,rf063567@loras.edu,Education
+Fett,Nancy,8/15/1995,Assoc Prof of Social Work,nf004696@loras.edu,Social Work
+Francois,Kelly,8/30/2010,Adjunct for Criminal Justice,kf015397@loras.edu,Criminal Justice
+Friedell,John,7/1/1956,Prof Emer of Math/Comp Science,jf001193@loras.edu,Math/Computer Science
+Gambrall,Bernard,8/17/2011,Assoc Prof of Business Administration,dg488881@loras.edu,Accounting/Business
+Garoutte,Lisa,8/20/2007,Asst Professor of Sociology,lg416203@loras.edu,Sociology
+Garrett,Matthew,8/22/2005,Assoc Professor of Physical Education,mg379331@loras.edu,Physical Education
+Gau,Michael,8/30/1999,Adjunct for Criminal Justice,mg050611@loras.edu,Criminal Justice
+Giannakouros,Dorothy,8/22/2011,Instructor of English,dg088852@loras.edu,English
+Glover,Sara,8/21/2006,Asst Professor of Physical Education,sg398643@loras.edu,Physical Education
+Goodman,Thomas,8/29/2011,Adjunct Faculty of Politics,tg025666@loras.edu,Politics
+Goodman,Catherine,1/10/2006,Adjunct Faculty of Comm.Arts,cg001748@loras.edu,Communication Arts
+Graham,Gerald,8/24/1988,Assoc Professor of Business Administration,gg048605@loras.edu,Accounting/Business
+Greenberg,Julie,6/15/2011,Instruction Services Librarian,jg306563@loras.edu,Library
+Grinde,Lisa,8/20/2001,Assoc Professor of Psychology,lg295736@loras.edu,Psychology
+Hall,Helena,8/18/2008,Director of Writing Ctr,hh440267@loras.edu,Writing Lab
+Hankerson,Sarah,8/22/2011,Asst Professor of Psychology,sh493092@loras.edu,Psychology
+Hanson,Tamara,8/24/2004,Adjunct Faculty of Comm.Arts,th217305@loras.edu,Communication Arts
+Harris,Mary Carol,8/23/1999,Prof of Communication Arts,mh264103@loras.edu,Communication Arts
+Heidenreich,Jacob,8/21/2006,Assoc Prof of Mathematics,jh399333@loras.edu,Math/Computer Science
+Heidenreich,Karen,8/28/2006,Adjunct-Math/Cmptr Science,kh399279@loras.edu,Math/Computer Science
+Heinle,Suzanne,8/28/2006,Adjunct Faculty of Education,sh127355@loras.edu,Education
+Hess,John,8/28/1969,Prof Emeritus of Education,jh001222@loras.edu,Education
+Hinton,Marcie,8/23/2010,Asst Prof of Public Relations,mh481015@loras.edu,Communication Arts
+Hitchcock,William,1/16/1989,Prof of Management Information Systems,wh051423@loras.edu,Accounting/Business
+Homb,Julie,8/29/2011,Adjunct for Psychology,jh231383@loras.edu,Psychology
+Hope,Sharron,8/20/2007,Asst Prof of Communication Arts,sh418219@loras.edu,Communication Arts
+Hopper,Mark,8/18/2003,Assoc Professor of Psychology,mh340277@loras.edu,Psychology
+Hopper,Christy,1/17/2005,Adjunct for Psychology,ch342255@loras.edu,Psychology
+Howard,John,8/29/2011,Adjunct Faculty of Education,jh499753@loras.edu,Education
+Hoyt,Robert,1/31/2011,Adjunct Faculty of Education,rh489592@loras.edu,Education
+Hruska,Jessica,3/3/2008,Adjunct Faculty of PESS,jh438180@loras.edu,Physical Education
+Idziak,Janine,8/29/1984,Prof of Philosophy,ji001232@loras.edu,Philosophy
+Ivanov,Michael,8/22/2011,Instructor of Chemistry,mi253391@loras.edu,Chemistry
+Iwasaki,Masahiro,1/31/1997,Adjunct Faculty for Music,mi062311@loras.edu,Music
+Jablonsky,William,8/18/2008,Asst Professor of English,wj437777@loras.edu,English
+Jeffries,Kathleen,8/18/1997,Assoc Professor of Modern Language and Cultures,kj222506@loras.edu,Modern Foreign Language
+Jewell-Vitale,Thomas,9/1/1976,Prof of Art,tj001235@loras.edu,Art
+Johnson,Mary,8/27/1986,Prof of Psychology,mj008748@loras.edu,Psychology
+Kane,Janine,8/20/2007,Asst Prof of Special Education,jk399087@loras.edu,Education
+Keedy,Nicole,8/29/2011,Adjunct for Psychology,nk494305@loras.edu,Psychology
+Kehren,Mark,8/21/2006,Asst Professor of History,mk396852@loras.edu,History
+Keller,Robert,8/23/1999,Assoc Prof of Mathematics,rk264116@loras.edu,Math/Computer Science
+Kelly,Katherine,8/28/2006,Adjunct Faculty of Education,kb399529@loras.edu,Education
+Kerkenbush,Roger,8/22/2011,Asst Professor of Accounting,rk488879@loras.edu,Accounting/Business
+Keyes,Mathew,8/24/2009,Asst Professor of Finance,mk458949@loras.edu,Accounting/Business
+Koch,Kevin,8/30/1982,Prof of English,kk001250@loras.edu,English
+Koester,Nancy,1/17/2006,Adjunct Faculty of Comm.Arts,nk244408@loras.edu,Communication Arts
+Kohl,Paul,8/15/1995,Assoc Prof of Communication Arts,pk150920@loras.edu,Communication Arts
+Kohlhaas,Angela,8/23/2010,Asst Prof of Mathematics,ak265390@loras.edu,Math/Computer Science
+Kotowich,Bruce,8/16/2004,Assoc Professor of Music,bk361700@loras.edu,Music
+Kraus,Kenneth,9/1/1960,Prof Emeritus of Chemistry,kk001257@loras.edu,Chemistry
+Lammer,Luke,1/31/2011,Asst Professor of Accounting,ll310267@loras.edu,Accounting/Business
+Lammer-Heindel,Christoffer,8/20/2012,Adjunct Faculty of Philosophy,cl489425@loras.edu,Philosophy
+Lansing,Suzanne,1/30/2012,Adjunct Faculty of Education,sl263630@loras.edu,Education
+Lea,Jacqueline,8/24/2009,Instructor of Political Science,jl458950@loras.edu,Politics
+Lemmers-Schwab,Allison,5/27/2008,Adjunct for Psychology,as439530@loras.edu,Psychology
+Lindblom,Ronald,1/30/2012,Adjunct Faculty of Chemistry,rl503268@loras.edu,Chemistry
+Link,Todd,1/12/2004,Adjunct Faculty of Comm.Arts,tl014411@loras.edu,Communication Arts
+Litka,Brenda,8/24/1983,Assoc Prof of Computer Science,bl001404@loras.edu,Math/Computer Science
+Livingston,Dana,8/15/1995,Assoc Professor of Modern Language and Cultures,dl150911@loras.edu,Modern Foreign Language
+Lorenz,Amy,8/28/1991,Prof of Modern Language and Cultures,amy.lorenz@loras.edu,Modern Foreign Language and Culture
+Lovell,Jean,8/26/2002,Adjunct Faculty of Education,jl324939@loras.edu,Education
+Luke,Lloyd,8/29/2011,Adjunct Faculty for Music,ll481506@loras.edu,Music
+Mack,Teresa,8/30/1982,Prof Emerita of Acct/Busines,tm001276@loras.edu,Accounting/Business
+Manges,Charles,8/16/2004,Prof of Education,cm362478@loras.edu,Education
+Manning,Timothy,8/20/2007,Lorian Moderator,tm420612@loras.edu,Lorian
+Marx,Anne,8/22/2011,Asst Professor of Sports Management,am490143@loras.edu,Physical Education
+Marxen,Donald,8/30/1978,Prof Emer of Math/Comp Science,dm001285@loras.edu,Math/Computer Science
+Marzofka,Patrick,8/26/1987,Assoc Professor of Business Administration,pm017952@loras.edu,Accounting/Business
+Maslowsky,Edward,8/26/1974,Prof of Chemistry,em001288@loras.edu,Chemistry
+Mauss,Ann,1/20/1998,Assoc Professor of Management Information Systems,am001580@loras.edu,Accounting/Business
+McCarthy-Gilmore,Kate,8/24/2009,Asst Professor of Spanish,km459239@loras.edu,Modern Foreign Language
+McCaw,Ardyce,8/18/1997,Assoc Prof of Education,am078937@loras.edu,Education
+McConnell,Miles,8/29/2011,Adjunct Faculty for Music,mm493732@loras.edu,Music
+McLaughlin,Kenneth,8/17/1998,Prof of Physics and Engineering,km249814@loras.edu,Physics/Engineering
+Meldrem,Joyce,9/1/2004,Dir. of Academic Resrce Cntr,jm366526@loras.edu,Library
+Merkel,Clark,8/20/2007,Assoc Prof of Engineering,cm418218@loras.edu,Physics/Engineering
+Merrill,Jean,8/21/2006,Assoc Professor of English,jm395184@loras.edu,English
+Meyer,Jonas,8/22/2011,Asst Prof of Mathematics,jm275117@loras.edu,Math/Computer Science
+Miller,Barbara,1/17/2006,Adjunct Faculty of Education,bm394422@loras.edu,Education
+Millhouse,Philip,5/23/2011,Adjunct Faculty of History,,History
+Monhardt,Rebecca,8/24/2009,Assoc Prof of Education,rm461266@loras.edu,Education
+Morton,Rodger,8/24/1988,Professor Emeritus of History,rm048536@loras.edu,History
+Mosiman,Steven,8/27/1986,Prof Emer of Math/Comp Science,sm008874@loras.edu,Math/Computer Science
+Muir,Diane,1/31/2011,Adjunct Faculty of Education,dm288932@loras.edu,Education
+Murphy,Nancy,8/30/2010,Adjunct Faculty of Education,nm123242@loras.edu,Education
+Murray,Francis,1/28/2009,Adj Faculty for Acct & Bus,fm024832@loras.edu,Accounting/Business
+Myers,Seth,8/24/2009,Asst Prof of Art & Communication,sm460652@loras.edu,Art
+Neebel,Danial,8/17/1998,Assoc Prof of Computer Science & Engineering,dn026711@loras.edu,Math/Computer Science
+Nemmers,Joseph,1/28/2009,Adjunct for Psychology,jn025411@loras.edu,Psychology
+Neuhaus,Mary Lynn,1/12/1987,Prof of Communication Arts,mn012486@loras.edu,Communication Arts
+Newman,Nathan,8/1/2005,Instr of Physical Education & Sport Studies,nn378978@loras.edu,Physical Education
+Niemoczynski,Leon,8/22/2011,Asst Prof of Philosophy,ln493609@loras.edu,Philosophy
+Nugent,Christina,8/27/1997,Adjunct Faculty of Education,cn111484@loras.edu,Education
+O'Connor,Dennis,8/24/1983,Prof of Economics,do001320@loras.edu,Economics
+Olszewski,Peggy,11/4/2011,Adjunct Faculty of Education,po502563@loras.edu,Education
+Omarzu,Julia,8/26/2002,Assoc Professor of Psychology,jo313543@loras.edu,Psychology
+Omarzu,Michael,8/29/2011,Adjunct Faculty for Music,mo323989@loras.edu,Music
+Oostendorp,David,8/26/1987,Prof of Chemistry,do017631@loras.edu,Chemistry
+Osheim,Amanda,8/23/2010,Asst Prof of Theology,ao481615@loras.edu,Religious Studies
+Parks,Kathrin,8/20/2007,Asst Professor of Sociology,kp087203@loras.edu,Sociology
+Pedersen,Mary,1/16/2007,Adjunct Faculty Regl.Studies,mp235889@loras.edu,Religious Studies
+Pettitt,Heidi,10/27/2008,Technical Services Librarian,hp451954@loras.edu,Library
+Pisarik,Patrick,8/15/1993,Prof of Communication Arts,pp092592@loras.edu,Communication Arts
+Pitt,David,8/20/2007,Assoc Prof of Religious Studies,dp419489@loras.edu,Religious Studies
+Pitt,Maria,8/30/2010,Adjunct Faculty of Philosophy,mp421679@loras.edu,Philosophy
+Pohland,Glenn,8/1/2009,Asst Professor of Music,gp461268@loras.edu,Music
+Pollock,Philip,8/26/2002,Assoc Professor of English,pp317366@loras.edu,English
+Pommerich,Robert,9/1/1962,Prof Emeritus of Acct/Business,rp001329@loras.edu,Accounting/Business
+Price,Kevin,1/28/2009,Adjunct Faculty for Music,kp398709@loras.edu,Music
+Reuland,Robert,9/1/1964,Prof Emeritus of Chemistry,rr001339@loras.edu,Chemistry
+Riley,Heather,8/18/2008,Asst Professor of Physical Education & Sport Studies,hr303902@loras.edu,Physical Education
+Rissler,Matthew,8/18/2008,Asst Prof of Mathematics,mr437799@loras.edu,Math/Computer Science
+Roling,Arthur,8/28/2006,Adjunct Faculty of Education,ar077522@loras.edu,Education
+Romero,Wendy,8/16/2004,Assoc Professor of Art,wr361935@loras.edu,Art
+Rudin,Barry,8/25/1975,Prof Emeritus of Acct/Business,br001346@loras.edu,Accounting/Business
+Sacchini,Louis,1/26/2000,Adjunct Faculty for Music,ls273113@loras.edu,Music
+Salvaterra,David,8/25/1980,Prof of History,ds001351@loras.edu,History
+Salyer,David,8/23/1999,Assoc Prof of Education,ds263887@loras.edu,Education
+Sazama,Debra,8/20/2007,Asst Professor of Pysical Education & Sport Studies,ds420790@loras.edu,Physical Education
+Schaefer,Joseph,9/1/1964,Prof Emeritus of Physics/Eng,,Physics/Engineering
+Schaefer,Craig,8/15/1993,Prof of Communication Arts,cs001480@loras.edu,Communication Arts
+Scheuerell,Scott,8/22/2005,Assoc Prof of Education,ss068892@loras.edu,Education
+Schleicher,Debra,8/21/2000,Assoc Professor of Business Administration,ds026803@loras.edu,Accounting/Business
+Schnee,Fred,8/15/1990,Assoc Professor of Biology,fs069422@loras.edu,Biology
+Shadle,Matthew,9/1/2006,Asst Prof of Theology,ms397632@loras.edu,Religious Studies
+Shaw,Donna,1/30/2012,Adjunct Faculty of Education,ds318928@loras.edu,Education
+Shealer,David,8/17/1998,Assoc Professor of Biology,ds249769@loras.edu,Biology
+Sinha,Aditi,8/21/2006,Assoc Professor of Biology,as298365@loras.edu,Biology
+Skurnowicz,Joan,8/26/1974,Professor Emerita of History,js001371@loras.edu,History
+Smith,Cynthia,8/15/1990,Assoc Prof of Greek and Roman Studies,cs001372@loras.edu,Classical Studies
+Smith,Kristen,8/13/1984,Information Services Librarian,ks001373@loras.edu,Library
+Smith,Jennifer,8/24/2009,Asst Professor of Economics,js460532@loras.edu,Economics
+Speckhard,David,8/24/1981,Prof of Chemistry,ds001382@loras.edu,Chemistry
+Spielvogel,Amy,8/29/2011,Adjunct Faculty of Education,as494162@loras.edu,Education
+Steidinger,Gene,8/23/1989,Assoc Professor of Business Administration,gs058772@loras.edu,Accounting/Business
+Stone,Susan,8/20/2001,Assoc Professor of English,ss295738@loras.edu,English
+Stribling,Donald,8/27/1970,Prof Emeritus of Comm Arts,ds001388@loras.edu,Communication Arts
+Strickler,Breyan,8/20/2007,Assoc Professor of English,bs419025@loras.edu,English
+Sturm,Karen,1/11/1982,Prof of Management Information Systems & Accounting,ks001393@loras.edu,Accounting/Business
+Sula,Laddie,8/24/1981,Prof of Economics,ls001394@loras.edu,Economics
+Sullivan,Maggie,8/17/1998,Assoc Prof of Communication Arts,ms249722@loras.edu,Communication Arts
+Swift,Susan,8/25/2008,Adjunct Faculty of Education,ss063313@loras.edu,Education
+Tentis,Dedra,8/20/2001,Assoc Prof of Criminal Justice,dt294994@loras.edu,Criminal Justice
+Thompson,Susan,1/30/2012,Adjunct Faculty of Education,st505079@loras.edu,Education
+Thompson,Michael,8/20/2007,Asst Prof of Computer Science,mt418864@loras.edu,Math/Computer Science
+Thompson,Kristen,8/23/2010,Asst Prof of Engineering,kt418916@loras.edu,Physics/Engineering
+Thompson,Nancy,1/28/2009,Adjunct Faculty of Education,nt342085@loras.edu,Education
+Ulve,Charlotte,9/1/1998,Adjunct Faculty of English,cu005571@loras.edu,English
+Upstrom,John,8/29/1984,Prof of Finance,ju001405@loras.edu,Accounting/Business
+VanLaningham,Erin,8/22/2011,Asst Professor of English,eo490139@loras.edu,English
+Velez,Tara,8/29/2011,Adjunct for Psychology,tv271965@loras.edu,Psychology
+Waldmeir,John,7/1/1997,Assoc Prof of Religious Studies,jw220605@loras.edu,Religious Studies
+Wathier,Douglas,1/14/1991,Prof of Theology,dw024632@loras.edu,Religious Studies
+Weber,Bryce,8/29/2011,Adjunct Faculty for Music,bw495469@loras.edu,Music
+Welch,Yvonne,1/28/2009,Adjunct Faculty of Education,yw059214@loras.edu,Education
+Wenny,Daniel,2/1/2010,Adjunct Faculty of Biology,dw477246@loras.edu,Biology
+Wilkie,William,9/1/1956,Professor Emeritus of History,ww001422@loras.edu,History
+Willis,Daniel,8/15/1992,Assoc Prof of Mathematics & Computer Science & Engineering,dw078774@loras.edu,Math/Computer Science
+Wilson,Raymond,8/28/1985,Prof of English,rw001425@loras.edu,English
+Witthoeft,Chad,8/30/2010,Adjunct Faculty of English,cw482327@loras.edu,English
+Wittine,Alfred,8/25/1970,Prof Emeritus of MFL,aw001428@loras.edu,Modern Foreign Language
+Yoko,Gregory,8/30/2010,Adjunct Faculty of Comm.Arts,gy001431@loras.edu,Communication Arts
+Zach,Sarah,2/1/2010,Adjunct Faculty for Music,sz355946@loras.edu,Music
+Zettel,Larry,8/25/1980,Prof Emer of Math/Comp Science,lz001433@loras.edu,Math/Computer Science
+Zhu,Lee,8/21/2000,Assoc Prof of History,lz284696@loras.edu,History

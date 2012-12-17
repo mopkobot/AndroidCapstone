@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- This is the layout used to display the information about locations from within the Map Explorer and Virtual Tour features. -->
+<!-- It is used with the LocationInfoActivity class -->
+<!-- Uses styles from themes.xml -->
+
+<!-- ScrollView allows vertical scrolling -->
+<ScrollView style="@style/MyScrollView"
+            xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout style="@style/MyLayout">
+
+        <!-- Location name -->
+        <TextView style="@style/MyMainHeader" android:id="@+id/locationName"/>
+
+        <!-- Location image -->
+        <ImageView style="@style/MyImageView" android:id="@+id/locationImage"/>
+
+        <!-- Location description -->
+        <TextView style="@style/MyTextView"
+                  android:id="@+id/locationDescription"/>
+
+    </LinearLayout>
+
+</ScrollView>

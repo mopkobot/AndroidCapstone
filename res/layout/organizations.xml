@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            style="@style/MyScrollView">
+    <!-- Defining Linear Layout -->
+    <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            style="@style/MyLayout">
+        <!-- TextBox where the title is shown -->
+        <TextView
+                android:id="@+id/txtTitle"
+                style="@style/MyMainHeader"/>
+        <!-- TextBox where the description is shown -->
+        <TextView
+                android:id="@+id/txtContent"
+                android:layout_marginTop="30dp"
+                style="@style/MyTextView"/>
+    </LinearLayout>
+
+</ScrollView>

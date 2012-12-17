@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--  Provides a layout for the header containing general Loras College contact information 
+displayed in the header of the department listing for the campus directory-->
+
+<!--  Styling depends on themes.xml -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              style="@style/MyLayout"
+              android:id="@+id/directoryHeader"
+        >
+
+    <TextView
+            android:id="@+id/admin"
+            style="@style/MyTextView"
+            android:textStyle="bold"
+            android:text="Loras College Administrative Offices and Information"/>
+
+    <TextView
+            android:id="@+id/admin"
+            style="@style/MyTextView"
+            android:text="1450 Alta Vista St.\nDubuque, IA 52001"/>
+
+    <TextView
+            android:id="@+id/phone"
+            style="@style/MyTextView"
+            android:text="(800) 245-6727\n(563) 588-7100"
+            android:autoLink="phone"/>"
+
+</LinearLayout>
